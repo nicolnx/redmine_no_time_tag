@@ -1,0 +1,4 @@
+.idea
+# ignore vim files
+*.swp
+*.swo

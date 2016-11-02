@@ -1,0 +1,4 @@
+ru:
+  label_added_time_by: "Добавил(а) %{author} %{age}"
+  label_updated_time_by: "Обновил(а) %{author} %{age}"
+  label_updated_time: "Обновлено %{value}"

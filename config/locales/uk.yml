@@ -1,0 +1,4 @@
+uk:
+  label_added_time_by: "Добавлено %{author} %{age}"
+  label_updated_time_by: "Додано %{author} %{age}"
+  label_updated_time: "Оновлено %{value}"

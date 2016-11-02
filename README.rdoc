@@ -1,0 +1,9 @@
+= Redmine Remove Time Tags Description
+
+Display the full time instead of time tags
+
+= Install
+
+Install the plugin with cloning the project into the plugins directory.
+
+1. git clone https\:\/\/github.com/nicolnx/redmine_no_time_tag.git ./plugins/redmine_no_time_tag/

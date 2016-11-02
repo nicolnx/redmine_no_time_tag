@@ -1,0 +1,4 @@
+en:
+  label_added_time_by: "Added by %{author} %{age}"
+  label_updated_time_by: "Updated by %{author} %{age}"
+  label_updated_time: "Updated %{value}"
