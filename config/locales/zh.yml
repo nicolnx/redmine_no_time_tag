@@ -1,0 +1,4 @@
+en:
+  label_added_time_by: "由 %{author} 添加于 %{age}"
+  label_updated_time_by: "由 %{author} 更新于 %{age}"
+  label_updated_time: "更新于 %{value}"
